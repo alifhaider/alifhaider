@@ -5,7 +5,7 @@
 I love building web-applications using <a href="https://reactjs.org/">React.js</a>/<a href="https://nextjs.org/">Next.js</a>. I am also on my way of learning <a href="https://remix.run/">Remix.run</a>. My goal is to provide users a better software experience on web.
 
 ### Connect With Me
-<a href="https://www.linkedin.com/in/alif-haider/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <ahref="https://twitter.com/haider_alif">	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/alif-haider/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/haider_alif">	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <!--
 **alifhaider/alifhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
