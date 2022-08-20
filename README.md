@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Alif Haider
+# Front End Dev | React.js 
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 <!--
 **alifhaider/alifhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
