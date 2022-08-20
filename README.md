@@ -10,7 +10,7 @@ I love building web-applications using <a href="https://reactjs.org/">React.js</
 ### Working Experience
 <ul>
  <li><a href="https://mbakop.com/">MBAKOP LLC</a> (Front-End Dev)</li>
- <li><a href="https://mbakop.com/](https://www.upwork.com/freelancers/~014066482556c551be">Upwork</a> (Freelancer)</li?
+ <li><a href="https://www.upwork.com/freelancers/~014066482556c551be">Upwork</a> (Freelancer)</li?
 </ul>
 <!--
 **alifhaider/alifhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
