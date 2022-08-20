@@ -3,6 +3,7 @@
 
 
 I love building web-applications using <a href="https://reactjs.org/">React.js</a>/<a href="https://nextjs.org/">Next.js</a>. I am also on my way of learning <a href="https://remix.run/">Remix.run</a>. My goal is to provide users a better software experience on web.
+I am learning new things through out building different apps. Also I am solving React Advanced Workshops to write the best quality code.
 
 ## Working Experience
 - <a href="https://mbakop.com/">MBAKOP LLC</a> (Front-End Dev)
@@ -12,8 +13,6 @@ I love building web-applications using <a href="https://reactjs.org/">React.js</
 - <a href="https://fryends.com">Fryends</a>
 - <a href="https://funcomp.com">Funcomp</a>
 - <a href="https://promenade.ai">Promenade</a>
-</ul>
-I am also completing workshops to learn Advance React Patterns.
  
 ## Skills
 #### 🪂 Frameworks: 
