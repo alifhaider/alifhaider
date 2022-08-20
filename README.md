@@ -4,13 +4,13 @@
 
 I love building web-applications using <a href="https://reactjs.org/">React.js</a>/<a href="https://nextjs.org/">Next.js</a>. I am also on my way of learning <a href="https://remix.run/">Remix.run</a>. My goal is to provide users a better software experience on web.
 
-### Working Experience
+## Working Experience
 <ul>
  <li><a href="https://mbakop.com/">MBAKOP LLC</a> (Front-End Dev)</li>
  <li><a href="https://www.upwork.com/freelancers/~014066482556c551be">Upwork</a> (Freelancer)</li>
 </ul>
  
-### Skills
+## Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@ I love building web-applications using <a href="https://reactjs.org/">React.js</
  
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-### Connect With Me
+## Connect With Me
 <a href="https://www.linkedin.com/in/alif-haider/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/haider_alif">	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
