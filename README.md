@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Alif Haider
 # Front End Dev | React.js | Next.js
-# <img alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<img alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-I love lea
+I love building web-applications using React.js/Next.js. I am also on my way of learning <a href="https://remix.run/">Remix.run.</a>  
 <!--
 **alifhaider/alifhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
