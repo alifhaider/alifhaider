@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alif Haider
 # Front End Dev | React.js | Next.js
-<img alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 I love building web-applications using <a href="https://reactjs.org/">React.js</a>/<a href="https://nextjs.org/">Next.js</a>. I am also on my way of learning <a href="https://remix.run/">Remix.run</a>. My goal is to provide users a better software experience on web.
 
@@ -12,6 +12,9 @@ I love building web-applications using <a href="https://reactjs.org/">React.js</
  <li><a href="https://mbakop.com/">MBAKOP LLC</a> (Front-End Dev)</li>
  <li><a href="https://www.upwork.com/freelancers/~014066482556c551be">Upwork</a> (Freelancer)</li?
 </ul>
+ 
+### Other Skills
+ ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 <!--
 **alifhaider/alifhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
