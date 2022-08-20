@@ -2,7 +2,7 @@
 # Front End Dev | React.js | Next.js
 
 
-I love building web-applications using <a href="https://reactjs.org/">React.js</a>/<a href="https://nextjs.org/">Next.js</a>. I am also on my way of learning <a href="https://remix.run/">Remix.run</a>. My goal is to provide users a better software experience on web.
+I love building web-applications using <a href="https://reactjs.org/">React.js</a>/<a href="https://nextjs.org/">Next.js</a>. I am also on my way of learning <a href="https://remix.run/">Remix.run</a>. My goal is to provide users a better software experience on web. <br/>
 I am learning new things through out building different apps. Also I am solving React Advanced Workshops to write the best quality code.
 
 ## Working Experience
