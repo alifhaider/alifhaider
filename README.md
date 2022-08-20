@@ -3,8 +3,9 @@
 
 
 I love building web-applications using <a href="https://reactjs.org/">React.js</a>/<a href="https://nextjs.org/">Next.js</a>. I am also on my way of learning <a href="https://remix.run/">Remix.run</a>. My goal is to provide users a better software experience on web. <br/>
-I am learning new things through out building different apps. Also I am solving React Advanced Workshops to write the best quality code. <br />
-<img src="https://badgen.net/badge/Wish%20Me/GoodLuck!/blue" alt="Wish Me GoodLuck!" />
+I am learning new things through out building different apps. Also I am solving React Advanced Workshops to write the best quality code.
+
+
 
 ## Working Experience
 - <a href="https://mbakop.com/">MBAKOP LLC</a> (Front-End Dev)
@@ -34,6 +35,8 @@ I am learning new things through out building different apps. Also I am solving 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+<img src="https://badgen.net/badge/Wish%20Me/GoodLuck!/blue" alt="Wish Me GoodLuck!" />
 
 ## Connect With Me
 <a href="https://www.linkedin.com/in/alif-haider/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
