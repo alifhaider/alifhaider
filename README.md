@@ -5,17 +5,13 @@
 I love building web-applications using <a href="https://reactjs.org/">React.js</a>/<a href="https://nextjs.org/">Next.js</a>. I am also on my way of learning <a href="https://remix.run/">Remix.run</a>. My goal is to provide users a better software experience on web.
 
 ## Working Experience
-<ul>
- <li><a href="https://mbakop.com/">MBAKOP LLC</a> (Front-End Dev)</li>
- <li><a href="https://www.upwork.com/freelancers/~014066482556c551be">Upwork</a> (Freelancer)</li>
-</ul>
+- <a href="https://mbakop.com/">MBAKOP LLC</a> (Front-End Dev)
+- <a href="https://www.upwork.com/freelancers/~014066482556c551be">Upwork</a> (Freelancer)
 
 ## What I have built
-<ul>
- <li><a href="https://fryends.com">Fryends</a></li>
- <li><a href="https://funcomp.com">Funcomp</a></li>
- <li><a href="https://promenade.ai">Promenade</a></li>
- <li>Voting App(ongoing)</li>
+- <a href="https://fryends.com">Fryends</a>
+- <a href="https://funcomp.com">Funcomp</a>
+- <a href="https://promenade.ai">Promenade</a>
 </ul>
 I am also completing workshops to learn Advance React Patterns.
  
