@@ -9,6 +9,15 @@ I love building web-applications using <a href="https://reactjs.org/">React.js</
  <li><a href="https://mbakop.com/">MBAKOP LLC</a> (Front-End Dev)</li>
  <li><a href="https://www.upwork.com/freelancers/~014066482556c551be">Upwork</a> (Freelancer)</li>
 </ul>
+
+## What I have built
+<ul>
+ <li><a href="https://fryends.com">Fryends</a></li>
+ <li><a href="https://funcomp.com">Funcomp</a></li>
+ <li><a href="https://promenade.ai">Promenade</a></li>
+ <li>Voting App(ongoing)</li>
+</ul>
+I am also completing workshops to learn Advance React Patterns.
  
 ## Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
