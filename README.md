@@ -11,12 +11,12 @@ I am learning new things through out building different apps. Also I am solving 
 - <a href="https://mbakop.com/">MBAKOP LLC</a> (Front-End Dev)
 - <a href="https://www.upwork.com/freelancers/~014066482556c551be">Upwork</a> (Freelancer)
 
-## What I have built
+## What I have built (In Production) 🔥
 - <a href="https://fryends.com">Fryends</a>
 - <a href="https://funcomp.com">Funcomp</a>
 - <a href="https://promenade.ai">Promenade</a>
  
-## Skills
+## Stacks
 #### 🪂 Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
