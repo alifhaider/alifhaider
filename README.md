@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Alif Haider
 # Front End Dev | React.js | Remix.run | Next.js
 
-I am passionate about crafting exceptional web applications using <a href="https://reactjs.org/">React.js</a> and <a href="https://nextjs.org/">Next.js</a>, constantly pushing the boundaries to deliver an unparalleled software experience for users. As I dive into the world of <a href="https://remix.run/">Remix.run</a>, I am expanding my skills further. I embrace continuous learning, honing my craft through the development of diverse apps and actively participating in React Advanced Workshops to consistently produce top-notch code quality. Join me on this journey towards creating outstanding digital experiences on the web.
+I am passionate about crafting exceptional web applications using <a href="https://reactjs.org/">React.js</a> and <a href="https://nextjs.org/">Next.js</a>, constantly pushing the boundaries to deliver an unparalleled software experience for users. As I dive into the world of <a href="https://remix.run/">Remix.run</a>, I am expanding my skills further. 
+
+I embrace continuous learning, honing my craft through the development of diverse apps and actively participating in React Advanced Workshops to consistently produce top-notch code quality. Join me on this journey towards creating outstanding digital experiences on the web.
 
 
 <img src="https://badgen.net/badge/Wish%20Me/GoodLuck!/blue" alt="Wish Me GoodLuck!" />
