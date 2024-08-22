@@ -5,6 +5,8 @@ I am passionate about crafting exceptional web applications using <a href="https
 
 I embrace continuous learning, honing my craft through developing different apps and actively participating in React Advanced Workshops to produce quality code. This journey is all about creating outstanding digital experiences on the web.
 
+I am also slowly learning C++ to build a game (for fun).
+
 
 <img src="https://badgen.net/badge/Wish%20Me/GoodLuck!/blue" alt="Wish Me GoodLuck!" />
 
