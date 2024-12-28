@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Alif Haider
-# Front End Dev | React.js | Remix.run | Next.js
+# Front End Dev | React.js | Remix.run
 
-I am passionate about crafting exceptional web applications using <a href="https://reactjs.org/">React.js</a> or <a href="https://nextjs.org/">Next.js</a> or <a href="https://remix.run/">Remix.run</a>, I am trying to push the boundaries to deliver an unparalleled software experience for users on the web.  
+I am passionate about crafting exceptional web applications using <a href="https://reactjs.org/">React.js</a> or <a href="https://remix.run/">Remix.run</a>, I am trying to push the boundaries to deliver an unparalleled software experience for users on the web.  
 
 I embrace continuous learning, honing my craft through developing different apps and actively participating in React Advanced Workshops to produce quality code. This journey is all about creating outstanding digital experiences on the web.
 
@@ -26,7 +26,6 @@ I am also slowly learning C++ to build a game (for fun).
 #### 🪂 Frameworks
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Remix.run](https://img.shields.io/badge/Remix-4630eb?style=for-the-badge&logo=remix&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 #### 🍬 Skills
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
