@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Alif Haider
-# Front End Dev | React.js | Remix.run
+# Full Stack Dev | React.js | Remix.run
 
 I am passionate about crafting exceptional web applications using <a href="https://reactjs.org/">React.js</a> or <a href="https://remix.run/">Remix.run</a>, I am trying to push the boundaries to deliver an unparalleled software experience for users on the web.  
 
