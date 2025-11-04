@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Alif Haider
 # Full Stack Dev | React.js | Remix.run
 
-I am passionate about crafting exceptional web applications using <a href="https://reactjs.org/">React.js</a> or <a href="https://remix.run/">Remix.run</a>, I am trying to push the boundaries to deliver an unparalleled software experience for users on the web.  
+I'm a passionate full-stack developer dedicated to building exceptional web applications. My expertise lies in using modern technologies like <b>Remix.run</b>, <b>Next.js</b> and <b>React.js</b> to create fast, responsive, and user-friendly experiences. I thrive on pushing the boundaries of web development to deliver software that not only functions flawlessly but also delights users.
 
-I embrace continuous learning, honing my craft through developing different apps and actively participating in React Advanced Workshops to produce quality code. This journey is all about creating outstanding digital experiences on the web.
+I'm a lifelong learner, constantly exploring and integrating the latest tools and best practices into my work. My journey is all about delivering outstanding software experiences on the web.
 
 <img src="https://badgen.net/badge/Wish%20Me/GoodLuck!/blue" alt="Wish Me GoodLuck!" />
 
@@ -24,3 +24,6 @@ I embrace continuous learning, honing my craft through developing different apps
 <a href="https://www.linkedin.com/in/alif-haider/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/haider_alif">	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
+<hr />
+
+<i>"Open to new opportunities and collaborations! Let's build something amazing together."</i>
